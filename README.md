@@ -1,1 +1,1 @@
-# Smart-Water-System
+# Smart Watering System
